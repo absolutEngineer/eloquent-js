@@ -1,4 +1,4 @@
-obj = {
+let obj = {
     hasOwnProperty: true,
     hasOtherProperties: false
 }
